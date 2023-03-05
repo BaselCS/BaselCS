@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **baselxx1xx@gmail.com**
 
-- ⚡ Fun fact **I started programing from When I was 16**
+- ⚡ Fun fact **I started programing from When I was 15**
 
 
 
