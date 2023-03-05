@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baselcs&label=Profile%20views&color=0e75b6&style=flat" alt="baselcs" /> </p>
 
-- 🔭 I’m currently working on **restaurant menu App For TV 📺 with Flutter**
+- 🔭 I’m currently working on **restaurant menu App For TV 📺 by Flutter**
 
 - 🌱 I’m currently learning **Flutter**
 
