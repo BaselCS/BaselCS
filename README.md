@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm BASEL Ahmed</h1>
+<h1 align="center"> I'm BASEL Ahmed</h1>
 <h3 align="center">A Intermediate Flutter Programmer and CS Student</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif">
