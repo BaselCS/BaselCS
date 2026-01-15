@@ -21,7 +21,7 @@ I'm a **Computer Science student** with a strong focus on **mobile development**
 
 ---
 
-## 🛠️ Languages and Tools
+## Languages and Tools
 
 Here are the technologies I currently work with:
 
@@ -65,12 +65,7 @@ Here are the technologies I currently work with:
     </p>
 
 ---
-### 📈 GitHub Stats  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=baselcs&show_icons=true&locale=en&layout=compact&theme=dark" alt="baselcs" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baselcs&show_icons=true&locale=en&theme=dark" alt="baselcs" /></p>
-
-### 🌐 Connect with Me  
+### Connect with Me  
 <p align="center">
   <a href="mailto:BaselSardah@outlook.com">
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
