@@ -25,46 +25,27 @@ I'm a **Computer Science student** with a strong focus on **mobile development**
 
 Here are the technologies I currently work with:
 
-<p align="left">
-    <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
-    </a>
-    <a href="https://opensource.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/opensource/opensource-icon.svg" alt="Open Source" width="40" height="40"/>
-    </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="40" height="40"/>
-    </a>
-    <a href="https://github.com/BaselCS/my_nvim_config" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" alt="My Neovim Configuration" width="40" height="40"/>
-    </a>
-    <a href="https://dart.dev" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
-    </a>
-    <a href="https://python.org" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-    </a>
-    <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21~bgwhite.svg" alt="Power BI" width="40" height="40"/>
-    </a>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-    </a>
-    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/>
-    </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-    </a>
-    <a href="https://html.spec.whatwg.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="40" height="40"/>
-    </a>
-    <a href="https://camo.githubusercontent.com/4081bdd86277757c837b9f3053f58b2f88721f041f95c4568a1f8c0b7c8cd5e5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d3135373242363f7374796c653d666c6174266c6f676f3d63737333266c6f676f436f6c6f723d7768697465" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg" alt="CSS" width="40" height="40"/>
-    </a>
-    </p>
+<table>
+  <tr>
+    <td><a href="https://flutter.dev"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/></a></td>
+    <td><a href="https://opensource.org/"><img src="https://www.vectorlogo.zone/logos/opensource/opensource-icon.svg" width="40" height="40"/></a></td>
+    <td><a href="https://www.linux.org/"><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="40" height="40"/></a></td>
+    <td><a href="https://github.com/BaselCS/my_nvim_config"><img src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" width="40" height="40"/></a></td>
+    <td><a href="https://dart.dev"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40"/></a></td>
+    <td><a href="https://python.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/></a></td>
+    <td><a href="https://powerbi.microsoft.com/"><img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21~bgwhite.svg" width="40" height="40"/></a></td>
+    <td><a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/></a></td>
+    <td><a href="https://www.sqlite.org/"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40"/></a></td>
+    <td><a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/></a></td>
+    <td><a href="https://html.spec.whatwg.org/"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="40" height="40"/></a></td>
+    <td><a href="https://www.w3.org/Style/CSS/"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg" width="40" height="40"/></a></td>
+  </tr>
+</table>
+
+
 
 ---
+
 ### Connect with Me  
 <p align="center">
   <a href="mailto:BaselSardah@outlook.com">
